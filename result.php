@@ -68,7 +68,7 @@
                          <p id="descText"><?php echo strtoupper($description); ?></p>
                       <span id="atk">Skill</span>
                         <div id="skill">
-                            <p><?php echo $atk; ?></p>
+                            <p><?php echo "fdddddx $atk" ?></p>
                             <?php echo'<img src="'.$atkLogo.'" width="20">' ?>
                         </div>
                   </div>
